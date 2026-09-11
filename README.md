@@ -1,6 +1,8 @@
 #Mi primer colaboracion
 *Participantes:
-*Lionel Romero
+* R4mir0Cur3guA
+* TheEmperor67
+* romergit4S
 ---
 ##Primer paso
 ---
