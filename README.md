@@ -1,5 +1,6 @@
 # Mi primer colaboracion
 ---
+
 ## Participantes:
 * R4mir0Cur3guA
 * TheEmperor67
@@ -10,3 +11,5 @@
 1. Entorno colaborativo activo
 2. Reagrupacion de errores
 3. Tareas a asignar
+4. conformacion de tareas
+5. delegacion de agentes
