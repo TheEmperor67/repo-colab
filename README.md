@@ -1,11 +1,11 @@
-#Mi primer colaboracion
+# Mi primer colaboracion
 --
-##Participantes:
+## Participantes:
 * R4mir0Cur3guA
 * TheEmperor67
 * romergit4S
 ---
-##Primer paso
+## Primer paso
 ---
 1. Entorno colaborativo activo
 2. Reagrupacion de errores
